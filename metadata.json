@@ -1,0 +1,5 @@
+{
+  "name": "MercadoLogistics AI",
+  "description": "ERP inteligente para gestão de frete e dimensões no Mercado Livre utilizando Gemini API.",
+  "requestFramePermissions": []
+}
